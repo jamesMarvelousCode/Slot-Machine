@@ -1,0 +1,9 @@
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+E:\SCHOOL_X3\C_sharp\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
